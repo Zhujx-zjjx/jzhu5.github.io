@@ -3,7 +3,7 @@
 title: Jiaxuan Zhu
 
 # Name pronunciation (optional)
-name_pronunciation: Jiaxuan Zhu
+#name_pronunciation: Jiaxuan Zhu
 
 # Full name (for SEO)
 first_name: Jiaxuan
@@ -33,21 +33,22 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jzhu5@umassd.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
+  #- icon: brands/github
+  #  url: https://github.com/gcushen
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
-  - Computer Vision, Deep Learning
+  - Deep Learning
+  - Computer Vision
   - Adversarial Machine Learning
 
 education:
