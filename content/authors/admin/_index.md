@@ -53,8 +53,8 @@ interests:
 education:
   - area: PhD Engineering and Applied Science
     institution: University of Massachusetts Dartmouth
-    date_start: In coming
-    date_end: 
+    date_start: 2024-09-04
+    date_end: 2029-09-04
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
