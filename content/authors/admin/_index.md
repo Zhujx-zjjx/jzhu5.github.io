@@ -3,7 +3,7 @@
 title: Jiaxuan Zhu
 
 # Name pronunciation (optional)
-#name_pronunciation: Jiaxuan Zhu
+name_pronunciation: Jiaxuan Zhu
 
 # Full name (for SEO)
 first_name: Jiaxuan
@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jzhu5@umassd.edu'
     label: E-mail Me
-  #- icon: brands/x
-  #  url: https://twitter.com/GetResearchDev
-  #- icon: brands/instagram
-  #  url: https://www.instagram.com/
-  #- icon: brands/github
-  #  url: https://github.com/gcushen
-  #- icon: brands/linkedin
-  #  url: https://www.linkedin.com/
-  #- icon: academicons/google-scholar
-  #  url: https://scholar.google.com/
-  #- icon: academicons/orcid
-  #  url: https://orcid.org/
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
   - Computer Vision, Deep Learning
@@ -55,33 +55,33 @@ education:
     institution: University of Massachusetts Dartmouth
     date_start: In coming
     date_end: 
-    #summary: |
-    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    #button:
-    #  text: 'Read Thesis'
-    #  url: 'https://example.com'
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: MEng Electronic Information
     institution: Southeast University
     date_start: 2020-09-01
     date_end: 2023-06-19
-    #summary: |
-    #  GPA: 3.8/4.0
+    summary: |
+      GPA: 3.8/4.0
 
-    #  Courses included:
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Automation
     institution: Hangzhou Dianzi University
     date_start: 2016-09-11
     date_end: 2020-06-28
-    #summary: |
-    #  GPA: 3.4/4.0
-    #  
-    #  Courses included:
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Remote Research Intern
     company_name: Clemson University
@@ -89,11 +89,11 @@ work:
     company_logo: ''
     date_start: 2023-10-01
     date_end: 2024-06-02
-    #summary: |2-
-    #  Responsibilities include:
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
